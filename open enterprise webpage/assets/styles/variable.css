@@ -1,0 +1,10 @@
+:root{
+    /* colors */
+    --colorGreen:#71A894;
+    --colorBlack:#303031;
+    --colorGray:#66645E;
+    --colorLightgold:#F3F0EA;
+    /* ?fonts */
+    --fontProxima: Proxima-Nova;
+    --fontPrompt: 'Prompt', sans-serif;
+}
